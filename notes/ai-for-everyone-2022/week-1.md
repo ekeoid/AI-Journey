@@ -13,7 +13,7 @@ One of the leading AI textbooks is [Artificial Intelligence: A Modern Approach](
   - Systems that think rationally
   - Systems that act rationally
 
-In its simplest form, artificial intelligence is a field that combines computer science and robust datasets to enable problem-solving. AI today includes the sub-fields of machine learning and deep learning, which are frequently mentioned in conjunction with artificial intelligence. These disciplines are comprised of AI algorithms that typically make predictions or classifications based on input data. Machine learning has improved the quality of some expert systems, and made it easier to create them. [^1]
+In its simplest form, artificial intelligence is a field that combines computer science and robust datasets to enable problem-solving. AI today includes the sub-fields of machine learning and deep learning, which are frequently mentioned in conjunction with artificial intelligence. These disciplines are comprised of AI algorithms that typically make predictions or classifications based on input data. Machine learning has improved the quality of some expert systems, and made it easier to create them.[^1] 
 
 Machine learning
 Data
@@ -51,6 +51,6 @@ Structured, unstructured
 
 
 
-# References
-[1^]: [https://www.ibm.com/cloud/learn/what-is-artificial-intelligence]
+
+[^1]: https://www.ibm.com/cloud/learn/what-is-artificial-intelligence
 
